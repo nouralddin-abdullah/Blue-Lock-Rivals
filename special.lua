@@ -2,7 +2,7 @@
 -- ##      CONFIGURATION      ## --
 -- ################################# --
 
-local KEY_CHECK_ENABLED = true -- Set this to false to bypass the key check
+local KEY_CHECK_ENABLED = false -- Set this to false to bypass the key check
 
 -- CONFIGURE YOUR LINKS HERE
 local MAIN_SCRIPT_URL = "https://pastebin.com/raw/44u5Djnn" -- Paste your Main Script URL from Step 1 here
