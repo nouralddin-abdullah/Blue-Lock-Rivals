@@ -5,7 +5,7 @@
 local KEY_CHECK_ENABLED = false -- Set this to false to bypass the key check
 
 -- CONFIGURE YOUR LINKS HERE
-local MAIN_SCRIPT_URL = "https://pastebin.com/raw/44u5Djnn" -- Paste your Main Script URL from Step 1 here
+local MAIN_SCRIPT_URL = "https://raw.githubusercontent.com/nouralddin-abdullah/Blue-Lock-Rivals/refs/heads/main/specialmain.lua" -- Paste your Main Script URL from Step 1 here
 local KEY_URL = "https://pastebin.com/raw/a1Uz1nL1" -- Paste your Key URL from Step 2 here
 local SHORTCUT_LINK = "https://exe.io/hUhBl" -- Paste the link you want users to complete
 
